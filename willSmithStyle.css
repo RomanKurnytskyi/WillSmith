@@ -1,0 +1,69 @@
+body{
+  background-image: url(will-smith-wall.jpg);
+  color: white;
+}
+
+#link1{
+  color: #cde69e;
+  border: 2px solid #9ae3de;
+  font-size: 27px;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 60px;
+  padding-right: 45px;
+  border-radius: 5px;
+
+}
+#link2{
+  color: #cde69e;
+  border: 2px solid #9ae3de;
+  font-size: 27px;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  padding-right: 15px;
+  border-radius: 5px;
+}
+#link3{
+  color: #cde69e;
+  border: 2px solid #9ae3de;
+  font-size: 27px;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+#link4{
+  color: #cde69e;
+  border: 2px solid #9ae3de;
+  font-size: 27px;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+p{
+  width: 650px;
+}
+img{
+  padding: 10px;
+  border-radius: 20px;
+}
+#rapper{
+  padding-left: 210px;
+}
+
+img:hover{
+  transition: 2.3s;
+  transform: scale(1.5);
+  margin-left: 70px;
+}
+#discographyTable{
+  border: 2px solid #9bbfbd;
+}
+caption{
+  text-align: center ;
+}
+table{
+  padding-left: 300px;
+}
